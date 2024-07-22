@@ -5,7 +5,7 @@
 
 This API provides functionalities to reverse a string and check if a string is a palindrome.
 
-Prerequisites
+## Prerequisites
 .NET 6 SDK - The project requires the .NET 6 SDK or Higher. Ensure it is installed and configured on your machine.
 
 ## Setup
